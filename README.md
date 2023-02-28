@@ -100,7 +100,7 @@ In this section, highlight your technical skills and expertise. You can include 
     <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
-">
+" alt="npm">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
@@ -130,7 +130,7 @@ In this section, highlight your technical skills and expertise. You can include 
 
 <h3>Links</h3>
 <p>
-    <a href="mailto:gigliomarcus9@gmail.com">
+    <a href="mailto:gigliomarcus9@gmail.com" rel="nofollow">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://github.com/Marcus-Giglio" target="_blank">
