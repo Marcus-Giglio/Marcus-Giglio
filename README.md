@@ -40,11 +40,13 @@ Begin your README.md by introducing yourself and providing some background infor
     <li><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></li>
 </ul>
 
-I also done some stages in web agencies and i've worked with many clients and projects to improve my front-end skills.
+I also done some stages in <strong>web agencies</strong> and i've worked with many clients and projects to improve my
+<strong>front-end skills</strong>.
 </p>
 
 <p>
-    Now I'm a self-taught developer and i'm always looking for new challenges and opportunities to learn and grow.
+    Now I'm a self-taught developer and i'm always looking for <strong>new challenges</strong> and
+    <strong>opportunities</strong> to learn and grow.
 </p>
 
 <p>My hobbies are <span style='font-size:20px;'>&#127918;</span> gaming and <span
