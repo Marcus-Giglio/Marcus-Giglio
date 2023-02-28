@@ -40,16 +40,16 @@ Begin your README.md by introducing yourself and providing some background infor
     <li><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></li>
 </ul>
 
-I also done some stages in <strong>web agencies</strong> and i've worked with many clients and projects to improve my
+I also did some stages in <strong>web agencies</strong> and i've worked with many clients and projects to improve my
 <strong>front-end skills</strong>.
 </p>
 
 <p>
-    Now I'm a self-taught developer and i'm always looking for <strong>new challenges</strong> and
+    Now I'm a self-taught developer and always looking for <strong>new challenges</strong> and
     <strong>opportunities</strong> to learn and grow.
 </p>
 
-<p>My hobbies are <span style='font-size:20px;'>&#127918;</span> gaming and <span
+<p>My hobbies are <span style='font-size:20px;'>&#127937;</span> sim racing, <span style='font-size:100px;'>&#127925;</span> music, <span style='font-size:20px;'>&#127918;</span> gaming and <span
         style='font-size:20px;'>&#128692;</span>mtb.</p>
 
 <hr>
@@ -127,7 +127,6 @@ In this section, highlight your technical skills and expertise. You can include 
 <p>
     <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
     <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
-
 </p>
 
 <h3>Links</h3>
