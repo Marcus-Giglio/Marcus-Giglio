@@ -26,7 +26,7 @@ Begin your README.md by introducing yourself and providing some background infor
 <h3>back-end</h3>
 <ul>
     <li><img
-            src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+            src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     </li>
     <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></li>
     <li><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></li>
