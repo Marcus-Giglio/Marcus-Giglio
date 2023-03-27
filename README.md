@@ -128,6 +128,13 @@ In this section, highlight your technical skills and expertise. You can include 
     <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
 </p>
 
+<h3>Certifications</h3>
+<ul>
+<li><a href="https://www.freecodecamp.org/certification/Marcus_09/responsive-web-design" target="_blank">Responsive Web Design</a></li>
+<li><a href="https://www.freecodecamp.org/certification/Marcus_09/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a></li>
+<li><a href="https://www.freecodecamp.org/certification/Marcus_09/front-end-development-libraries" target="_blank">Front End Development Libraries</a></li>
+</ul>
+
 <h3>Links</h3>
 <p>
     <a href="mailto:gigliomarcus9@gmail.com" rel="nofollow">
