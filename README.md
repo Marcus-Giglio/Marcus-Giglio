@@ -154,10 +154,7 @@ In this section, highlight your technical skills and expertise. You can include 
 <hr>
 
 <h2>Stats <span style='font-size:30px;'>&#128200;</span></h2>
-<div>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Marcus-Giglio&theme=react-dark">
-</div>
-<br>
+
 <div>
     <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcus-Giglio&theme=2077">
